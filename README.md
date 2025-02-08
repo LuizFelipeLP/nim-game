@@ -20,7 +20,7 @@ Jogo do Nim feito com HTML, CSS e JavaScript.
 - Basta abrir o arquivo `index.html` no navegador.
 
 ## 📜 Créditos
-- Desenvolvido por [Seu Nome].
+- Desenvolvido por Luiz Felipe.
 - Inspirado no jogo matemático Nim.
 
 ## 📄 Licença
